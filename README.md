@@ -1,5 +1,7 @@
 # Mini8s (v0.3.98)
 
+
+
 Why hello there! This is Mini8s, a weather application created by me (Starzainia) and HexagonMidis! Below is a rundown of what this application can do as of v0.3.98:
 
 - Show radar data for ones zip code
@@ -40,3 +42,7 @@ LINUX:
 - Then, run the following command: **pip install pygame-ce requests pillow bs4**
 - Then, naviagate to the mini8s directory, then run this: **python mini8s.py**
 
+-----------------------------------------------------------------------------
+**Credits:**
+https://github.com/pygame-community/pygame-ce
+https://github.com/cosmologicon/pygame-text
