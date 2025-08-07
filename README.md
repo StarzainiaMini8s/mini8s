@@ -3,7 +3,7 @@
 
 
 
-Why hello there! This is Mini8s, a weather application created by me (Starzainia) and HexagonMidis! Below is a rundown of what this application can do as of v0.3.98:
+**Why hello there! This is Mini8s, a weather application created by me (Starzainia) and HexagonMidis! Below is a rundown of what this application can do as of v0.3.98:**
 
 - Show radar data for ones zip code
 - Show current conditions for ones zip code
