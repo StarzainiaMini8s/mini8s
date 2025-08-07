@@ -1,4 +1,4 @@
-# mini8s
+# Mini8s
 
 Why hello there! This is Mini8s, a weather application created by me (Starzainia) and HexagonMidis! Below is a rundown of what this application can do as of v0.3.98:
 
