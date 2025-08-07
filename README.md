@@ -15,13 +15,13 @@ Why hello there! This is Mini8s, a weather application created by me (Starzainia
 
 WINDOWS:
 (Windows 10/11 is offically supported by Mini8s, but I cannot rule out Mini8s working on Windows 7)
-Go to the RELEASE page of this GitHub page, in there, you will find the Mini8s program binary (mini8s_windows-x64), download it, put it whereever (except for the .exe! it won't work if you take out the EXE from the main directory!)
-Simply just double-click to launch, and you will be brought up to a terminal window as normal!
+- Go to the RELEASE page of this GitHub page, in there, you will find the Mini8s program binary (mini8s_windows-x64), download it, put it whereever (except for the .exe! it won't work if you take out the EXE from the main directory!)
+- Simply just double-click to launch, and you will be brought up to a terminal window as normal!
 
 LINUX: 
 (Any Linux distro supporting Python 3.9 or higher or any Linux distro that can support at least Pygame-ce 2.0!)
-Go to the RELEASE page of this GitHub page (like with Windows), you will find the Mini8s Linux binary there. (mini8s_linux-x64), download it, then, open a terminal window.
-Then, do "cd mini8s" (usually "cd Downloads/mini8s"), then, simply type "./mini8s" Mini8s will then run normally!
+- Go to the RELEASE page of this GitHub page (like with Windows), you will find the Mini8s Linux binary there. (mini8s_linux-x64), download it, then, open a terminal window.
+- Then, do "cd mini8s" (usually "cd Downloads/mini8s"), then, simply type "./mini8s" Mini8s will then run normally!
 
 
 SOURCE FILE:
