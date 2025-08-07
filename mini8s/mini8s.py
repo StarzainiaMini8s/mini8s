@@ -388,7 +388,7 @@ def build_radar_url(lat, lon):
         'zoom': '250',
         'imgsize': '1280x1024',
         'loop': '1',
-        'frames': '1',
+        'frames': '49',
         'interval': '5',
         'filter': '0',
         'cu': '0',
@@ -1863,3 +1863,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
