@@ -26,7 +26,7 @@ LINUX:
 
 SOURCE FILE:
 
-Download the source file via clicking <Code> then **Download Zip**:
+Download the source file via clicking **Code** then **Download Zip**:
 
 WINDOWS: 
 - Install pip via their website (since Python is likely pre-installed)
