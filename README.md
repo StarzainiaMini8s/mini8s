@@ -1,4 +1,4 @@
-# Mini8s
+# Mini8s (v0.3.98)
 
 Why hello there! This is Mini8s, a weather application created by me (Starzainia) and HexagonMidis! Below is a rundown of what this application can do as of v0.3.98:
 
@@ -26,4 +26,17 @@ LINUX:
 
 SOURCE FILE:
 
-WIP!
+Download the source file via clicking <Code> then **Download Zip**:
+
+WINDOWS: 
+- Install pip via their website (since Python is likely pre-installed)
+- Then, run the following command: **pip install pygame-ce requests pillow bs4**
+- Then, navigate to the mini8s directory, then, run this: **python mini8s.py**
+
+LINUX:
+- Run **python3 -m venv "myenv"** (you may name the myenv whatever you want)
+- Going off of this, you created a venv in your home directory, so, run the following:
+- **source myenv/bin/activate**
+- Then, run the following command: **pip install pygame-ce requests pillow bs4**
+- Then, naviagate to the mini8s directory, then run this: **python mini8s.py**
+
