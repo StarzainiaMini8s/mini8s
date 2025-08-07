@@ -10,9 +10,9 @@ Why hello there! This is Mini8s, a weather application created by me (Starzainia
 - Mini8s can do certain things based on what alert the user is under.
 - Keep values for resolution and the users zip. (The user can press enter to skip typing a value on the next start of Mini8s)
 
-======================================================
-HOW TO INSTALL/RUN
-======================================================
+
+****HOW TO INSTALL/RUN****
+
 WINDOWS:
 (Windows 10/11 is offically supported by Mini8s, but I cannot rule out Mini8s working on Windows 7)
 Go to the RELEASE page of this GitHub page, in there, you will find the Mini8s program binary (mini8s_windows-x64), download it, put it whereever (except for the .exe! it won't work if you take out the EXE from the main directory!)
