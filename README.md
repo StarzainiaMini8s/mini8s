@@ -1,4 +1,4 @@
-# Mini8s (v0.3.98)
+# Mini8s (v0.3.98.1)
 <img width="400" height="356" alt="mini8s_revised_logo-nover" src="https://github.com/user-attachments/assets/9154b59d-c126-440a-9255-c345a322540e" />
 
 
