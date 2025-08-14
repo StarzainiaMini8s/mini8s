@@ -3,7 +3,7 @@
 
 
 
-**Why hello there! This is Mini8s, a weather application created by me (Starzainia) and HexagonMidis! Below is a rundown of what this application can do as of v0.3.98:**
+**Why hello there! This is Mini8s, a weather application created by me (Starzainia) and HexagonMidis! Below is a rundown of what this application can do as of v0.3.98.1:**
 
 - Show radar data for ones zip code
 - Show current conditions for ones zip code
@@ -12,6 +12,7 @@
 - Read out multiple alerts one-by-one.
 - Mini8s can do certain things based on what alert the user is under.
 - Keep values for resolution and the users zip. (The user can press enter to skip typing a value on the next start of Mini8s)
+- Show a dot of the users current location (via their ZIP code)
 
 
 ****HOW TO INSTALL/RUN****
