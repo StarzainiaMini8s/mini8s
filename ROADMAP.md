@@ -4,10 +4,10 @@ Here will be the roadmap for Mini8s, going out with 1 patches and 1 major update
 Shown here will be the planned features and patches for the next versions of Mini8s!
 
 **v0.3.98.2**
+- Port to Android
 - Add alert tones for the program (made by Thodoris Demertzioglou) 3 for warnings, and 1 for watches. (Note: This will require a "list" of alerts the user is currently under to avoid it going off with every update)
 - Further optimizations for lower end hardware (RPi oriented)
-- MORE scaling optimizations (a permanent solution to the low resolution problem)
-- Discord rich presence? (low confidence)
+- EVEN MOAR OPTIMIZATIONS!!!
 
 **v0.3.99**
 - Add more LDL bars (for specific alerts)
