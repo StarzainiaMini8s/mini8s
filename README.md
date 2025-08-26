@@ -1,9 +1,9 @@
-# Mini8s (v0.3.98.1)
+# Mini8s (v0.3.98.2)
 <img width="400" height="356" alt="mini8s_revised_logo-nover" src="https://github.com/user-attachments/assets/9154b59d-c126-440a-9255-c345a322540e" />
 
 
 
-**Why hello there! This is Mini8s, a weather application created by me (Starzainia) and HexagonMidis! Below is a rundown of what this application can do as of v0.3.98.1:**
+**Why hello there! This is Mini8s, a weather application created by me (Starzainia) and HexagonMidis! Below is a rundown of what this application can do as of v0.3.98.2:**
 
 - Show radar data for ones zip code
 - Show current conditions for ones zip code
@@ -13,18 +13,19 @@
 - Mini8s can do certain things based on what alert the user is under.
 - Keep values for resolution and the users zip. (The user can press enter to skip typing a value on the next start of Mini8s)
 - Show a dot of the users current location (via their ZIP code)
+- Play alert tones for either watches or warnings issued for the users area.
 
 
 ****HOW TO INSTALL/RUN****
 
 WINDOWS:
-(Windows 10/11 is offically supported by Mini8s, but I cannot rule out Mini8s working on Windows 7)
+(Windows 7 to 11 will run Mini8s fine, but I do not offically support running Mini8s on Windows 7!)
 - Go to the RELEASE page of this GitHub page, in there, you will find the Mini8s program binary (mini8s_windows-x64), download it, put it whereever (except for the .exe! it won't work if you take out the EXE from the main directory!)
 - Simply just double-click to launch, and you will be brought up to a terminal window as normal!
 
 LINUX: 
 (Any Linux distro supporting Python 3.9 or higher or any Linux distro that can support at least Pygame-ce 2.0!)
-- Go to the RELEASE page of this GitHub page (like with Windows), you will find the Mini8s Linux binary there. (mini8s_linux-x64), download it, then, open a terminal window.
+- Go to the RELEASE page of this GitHub page (like with Windows), you will find the Mini8s Linux binary there. (mini8s_linux-x64/mini8s_linux-arm64), download it, then, open a terminal window.
 - Then, do "cd mini8s" (usually "cd Downloads/mini8s"), then, simply type "./mini8s" Mini8s will then run normally!
 
 
@@ -47,4 +48,3 @@ LINUX:
 -----------------------------------------------------------------------------
 **Credits:**
 https://github.com/pygame-community/pygame-ce
-https://github.com/cosmologicon/pygame-text
