@@ -185,11 +185,11 @@ def check_for_new_alerts(alert_list):
     new_alerts = current_alerts - previous_alerts
     
     if new_alerts:
-        print(f"📋 NEW ALERT(S) DETECTED: {', '.join(new_alerts)}")
+        print(f"NEW ALERT(S) DETECTED: {', '.join(new_alerts)}")
         # Remove only the new alert types from played ticker alerts so they can play audio
         for new_alert in new_alerts:
             played_ticker_alerts.discard(new_alert)
-        print(f"🔄 Cleared ticker audio history for new alerts: {', '.join(new_alerts)}")
+        print(f"Cleared ticker audio history for new alerts: {', '.join(new_alerts)}")
     else:
         print("Alert check: No new alerts detected")
     
@@ -245,13 +245,13 @@ def play_ticker_audio(alert_type, is_new_alert=False, radar_loaded=True):
             pygame.mixer.Sound('audio/3tone-warning.ogg').play()
             played_ticker_alerts.add(alert_type)
         except Exception as e:
-            print(f"❌ Error playing ticker warning audio: {e}")
+            print(f"Error playing ticker warning audio: {e}")
     elif 'WATCH' in alert_type:
         try:
             pygame.mixer.Sound('audio/1tone-watch.ogg').play()
             played_ticker_alerts.add(alert_type)
         except Exception as e:
-            print(f"❌ Error playing ticker watch audio: {e}")
+            print(f"Error playing ticker watch audio: {e}")
 
 PANEL_CYCLE_INTERVAL = 20000
 WEATHER_REFRESH_INTERVAL = 500
@@ -2462,3 +2462,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
