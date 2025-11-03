@@ -67,6 +67,38 @@ Shown here will be the planned features and patches for the next versions of Min
 - Fix any bugfixes/regressions
 - A lot of what you see here will generally gauge on what happens in v0.3.99!
 
+---
+
+# Mini8s FAQ:
+
+> When will [VERSION] come out?
+- Generally, patches and small QoL releases (v0.0.00.X) can be released within about a week or so of development.. I can generally get it out the door fast and can fix any known regressions found.
+- On the other hand.. large updates (v0.0.0X.0) [v0.3.98.2 --> v0.3.99] will ALWAYS take usually a month or two to get ready, it almost always depends on the features that can be listed in the ROADMAP.md file.
+
+> Will this be ported to Rust?
+- Not until it is battle tested. NO. (plus, what kind of local FOSS weather app needs le heckin' chungus wholesome memory safety?)
+
+> Will this be ported to [LANGUAGE OTHER THAN RUST]
+- I'm uncertain on porting this to any other language at all, while yes, porting this to something near-ASM code (C or whatever) would provide a substantial performance uplift, I am not ready to undergo such an endeavor, nor am willing to spend months learning a new language right now. This is a project I do in my free time!
+
+> Will Mini8s have theming?
+- I'm hesitant on adding some sort of theming system for one good reason: Most of what you see with Mini8s is modular/pre-rendered vector images. If you feel the need to change the theme, it's right there in the binary or source code you've downloaded!
+
+> Why CC0? (public domain)
+- I personally do not believe in copyright/intellectual property on a moral and logical basis. This code can inherently be copied a million times, and is infinite. I refuse to coerce anyone if they choose to fork my code without my "offical permission", but asking me to fork would be great! (I could help!)
+
+> What were the versions before the current one? 
+- I have recently released a giant blob of source code .zip files containg every version from v0.3.21 to v0.3.97.1! 
+
+> What is RedMode?
+- RedMode is a feature that will activate in a Hurricane alert or Tornado Watch (soon!), as of v0.3.98.2 RedMode is limited, but this will change!
+
+> How do I get the source code? 
+- Download it straight from the green [<> Code ^] bubble!
+
+> Can I fork this?
+- Just ask, no copyright/license attatched!
+
 -----------------------------------------------------------------------------
 **Credits:**
 https://github.com/pygame-community/pygame-ce
