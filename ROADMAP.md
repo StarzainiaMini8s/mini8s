@@ -9,4 +9,4 @@ Shown here will be the planned features and patches for the next versions of Min
 - Potentially future optimizations?
 
 **v0.4.0**
-TO BE DETERMINED
+- TO BE DETERMINED
