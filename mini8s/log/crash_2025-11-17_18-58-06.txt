@@ -1,5 +1,0 @@
-Well crap, looks like Mini8s has crashed! DX
-
-Below is an output of the error that caused the main radar GIF to load/Mini8s to crash!
-
-Error getting coordinates from ZIP: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=29301,USA&format=json&limit=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fb17abf65d0>: Failed to resolve 'nominatim.openstreetmap.org' ([Errno -3] Temporary failure in name resolution)"))
