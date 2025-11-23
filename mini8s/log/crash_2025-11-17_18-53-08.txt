@@ -1,5 +1,0 @@
-Well crap, looks like Mini8s has crashed! DX
-
-Below is an output of the error that caused the main radar GIF to load/Mini8s to crash!
-
-Unknown error - radar GIF failed to load
