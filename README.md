@@ -1,8 +1,8 @@
-# Mini8s (v0.3.99)
+# Mini8s (v0.3.99.1)
 <img width="400" height="356" alt="mini8s_logo_verstring" src="https://github.com/user-attachments/assets/3d16631e-d475-4018-95b1-8326d7140232" />
 
 
-# Why hello there! This is _Mini8s_, a weather application created by Starzainia (me) and HexagonMidis! Below is a rundown of what this application can do as of v0.3.99:
+# Why hello there! This is _Mini8s_, a weather application created by Starzainia (me) and HexagonMidis! Below is a rundown of what this application can do as of v0.3.99.1:
 
 - Show radar data for ones zip code
 - Show radar and sattelite data for ones zip code if under a tropical storm or hurricane alert.
@@ -16,6 +16,7 @@
 - Play alert tones for either watches or warnings issued for the users area.
 - Show a users framerate
 - Has a **setup screen** to allow the user to quickly get started using Mini8s!
+- Save any ticked options from the setup screen!
 
 
 ****HOW TO INSTALL/RUN****
