@@ -11,7 +11,7 @@
 - I'm uncertain on porting this to any other language at all, while yes, porting this to something near-ASM code (C or whatever) would provide a substantial performance uplift, I am not ready to undergo such an endeavor, nor am willing to spend months learning a new language right now. This is a project I do in my free time!
 
 > Will Mini8s have theming?
-- I'm hesitant on adding some sort of theming system for one good reason: Most of what you see with Mini8s is modular/pre-rendered vector images. If you feel the need to change the theme, it's right there in the binary or source code you've downloaded!
+- Very likely by v0.4.0
 
 > Why CC0? (public domain)
 - I personally do not believe in copyright/intellectual property on a moral and logical basis. This code can inherently be copied a million times, and is infinite. I refuse to coerce anyone if they choose to fork my code without my "offical permission", but asking me to fork would be great! (I could help!)
