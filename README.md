@@ -1,8 +1,8 @@
-# Mini8s (v0.3.99.1)
+# Mini8s (v0.3.99.2)
 <img width="400" height="356" alt="mini8s_logo_verstring" src="https://github.com/user-attachments/assets/3d16631e-d475-4018-95b1-8326d7140232" />
 
 
-# Why hello there! This is _Mini8s_, a weather application created by Starzainia (me) and HexagonMidis! Below is a rundown of what this application can do as of v0.3.99.1:
+# Why hello there! This is _Mini8s_, a weather application created by Starzainia (me) and HexagonMidis! Below is a rundown of what this application can do as of v0.3.99.2:
 
 - Show radar data for ones zip code
 - Show radar and sattelite data for ones zip code if under a tropical storm or hurricane alert.
@@ -17,12 +17,13 @@
 - Show a users framerate
 - Has a **setup screen** to allow the user to quickly get started using Mini8s!
 - Save any ticked options from the setup screen!
+- Automatically update!
 
 
 ****HOW TO INSTALL/RUN****
 
 WINDOWS:
-(Windows 7 to 11 are officially supported) 
+(Windows 7 to 11 are officially supported and tested on) 
 - Go to the RELEASE page of this GitHub page, in there, you will find the Mini8s program binary (mini8s_windows-x64), download it, put it whereever (except for the .exe! it won't work if you take out the EXE from the main directory!)
 - Simply just double-click to launch, and you will be brought up to the setup screen!
 
