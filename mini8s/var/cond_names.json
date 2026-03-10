@@ -1,0 +1,150 @@
+{
+  "special_cases": {
+    "then_conditions": {
+      "storm_words": ["storm", "thunder", "thunderstorm"]
+    },
+    "wind_thresholds": {
+      "wind_speed": 25,
+      "gust_speed": 40
+    },
+    "wind_compatible_icons": [
+      "weather-clear",
+      "weather-few-clouds",
+      "weather-clouds",
+      "weather-showers"
+    ]
+  },
+  "icon_mappings": [
+    {
+      "conditions": "partly sunny",
+      "icon": "weather-many-clouds.png"
+    },
+    {
+      "conditions": "mostly cloudy",
+      "icon": "weather-clouds{day_night}.png",
+      "use_day_night": true
+    },
+    {
+      "conditions": "freezing rain",
+      "icon": "weather-freezing-rain.png"
+    },
+    {
+      "conditions": "scattered shower",
+      "icon": "weather-showers-scattered{time_suffix}.png"
+    },
+    {
+      "conditions": "scattered rain",
+      "icon": "weather-showers-scattered{time_suffix}.png"
+    },
+    {
+      "conditions": "scattered snow",
+      "icon": "weather-snow-scattered{time_suffix}.png"
+    },
+    {
+      "conditions": "light drizzle",
+      "icon": "weather-showers-scattered{time_suffix}.png"
+    },
+    {
+      "conditions": "heavy drizzle",
+      "icon": "weather-showers{time_suffix}.png"
+    },
+    {
+      "conditions": "light rain",
+      "icon": "weather-showers-scattered{time_suffix}.png"
+    },
+    {
+      "conditions": ["snow", "rain"],
+      "require_all": true,
+      "icon": "weather-snow-rain.png"
+    },
+    {
+      "conditions": "drizzle",
+      "icon": "weather-showers-scattered{time_suffix}.png"
+    },
+    {
+      "conditions": "partly cloudy",
+      "icon": "weather-few-clouds{time_suffix}.png"
+    },
+    {
+      "conditions": "mostly sunny",
+      "icon": "weather-few-clouds{time_suffix}.png"
+    },
+    {
+      "conditions": "sunny",
+      "icon": "weather-clear{time_suffix}.png"
+    },
+    {
+      "conditions": "cloudy",
+      "icon": "weather-many-clouds.png"
+    },
+    {
+      "conditions": "overcast",
+      "icon": "weather-overcast.png"
+    },
+    {
+      "conditions": "fog",
+      "icon": "weather-fog.png"
+    },
+    {
+      "conditions": "mist",
+      "icon": "weather-mist.png"
+    },
+    {
+      "conditions": "haze",
+      "icon": "weather-mist.png"
+    },
+    {
+      "conditions": "hail",
+      "icon": "weather-hail.png"
+    },
+    {
+      "conditions": "sleet",
+      "icon": "weather-hail.png"
+    },
+    {
+      "conditions": "rain",
+      "icon": "weather-showers{time_suffix}.png"
+    },
+    {
+      "conditions": "shower",
+      "icon": "weather-showers{time_suffix}.png"
+    },
+    {
+      "conditions": "snow",
+      "icon": "weather-snow.png"
+    },
+    {
+      "conditions": "storm",
+      "icon": "weather-storm{day_night}.png",
+      "use_day_night": true
+    },
+    {
+      "conditions": "thunder",
+      "icon": "weather-storm{day_night}.png",
+      "use_day_night": true
+    },
+    {
+      "conditions": "clear",
+      "icon": "weather-clear{time_suffix}.png"
+    }
+  ],
+  "windy_mappings": [
+    {
+      "conditions": ["clear", "sunny"],
+      "icon": "weather-clear{time_suffix}-wind.png"
+    },
+    {
+      "conditions": ["partly cloudy"],
+      "icon": "weather-few-clouds{time_suffix}-wind.png"
+    },
+    {
+      "conditions": ["mostly cloudy", "cloudy"],
+      "icon": "weather-clouds{time_suffix}-wind.png"
+    }
+  ],
+  "clear_modifiers": {
+    "conditions": ["mostly", "partly"],
+    "icon": "weather-few-clouds{time_suffix}.png"
+  },
+  "default_icon": "weather-none-available.png"
+}
